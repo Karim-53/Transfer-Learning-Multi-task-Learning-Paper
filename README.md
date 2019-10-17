@@ -24,6 +24,8 @@
 
 - **A Survey on Transfer Learning**. SJ.Pan, Q.Yang. IEEE Transactions on knowledge and data engineering. [[pdf](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)] *(A good general overview of many kinds of transfer learning, not related especially to any kind of machine learning methods)*
 
+- **A Dirty Model for Multi-task Learning**. Ali Jalali et Al. NIPS 2010 [[pdf](http://papers.nips.cc/paper/4125-a-dirty-model-for-multi-task-learning.pdf)] *( A Multi-task Learning method focused on linear regression )*
+
 #### 2008
 
 - **A unified architecture for natural language processing: Deep neural networks with multitask learning**. R.Collobert, J.Weston. Proceedings of the 25th international conference on Machine learning. [[pdf](http://www.thespermwhale.com/jaseweston/papers/unified_nlp.pdf)] *(Multi-task in NLP, the learning is on independent tasks but the knowledge is transfered via embedding vectors)*
